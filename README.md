@@ -68,11 +68,3 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/312slrbidqeoh4zryyalqvuld23m">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=312slrbidqeoh4zryyalqvuld23m&count=10&unique=true&width=500" alt="Spotify recently played"  />
-  </a>
-</div>
